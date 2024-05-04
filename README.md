@@ -25,7 +25,7 @@ To install Simulator 2.x on Windows:
 2. Unzip the contents of one of the archives from the [Releases](../../releases) page, overwriting the contents.
 * by default, on windows, the Simulator is installed under `C:\Users\YOUR_USERNAME\AppData\Local\Programs\`
 3. Run the Simulator and install all the necessary Emulators.
-4. Finally, run the `simfw-patcher-win.exe` and follow the instructions.
+4. Finally, run the `simfw-patcher-win.exe` which is located in the same folder as `simulator.exe` and follow the instructions.
 5. Done! You should be able to run the Simulator without `TUN/TAP` adapter.
 
 ![](./assets/win/sim-win.png)
@@ -38,7 +38,7 @@ To install Simulator 2.x on Linux:
 2. Unzip the contents of one of the archives from the [Releases](../../releases) page, overwriting the contents.
 * by default, on linux, the Simulator is installed under `/opt/`
 3. Run the Simulator and install all the necessary Emulators.
-4. Finally, run the `simfw-patcher-linux` and follow the instructions.
+4. Finally, run the `simfw-patcher-linux` which is located in the same folder as `simulator`'s executable and follow the instructions.
 * you might have to make pather executable with `chmod +x simfw-patcher-linux`
 5. Done! You should be able to run the Simulator without `sudo` and without `TUN/TAP` adapter.
 
@@ -50,9 +50,9 @@ To install Simulator 2.x on macOS:
 1. Download and install the current version of Simulator from [our website](https://upload-cdn.huami.com/zeppos/simulator/download/simulator_1.2.4.dmg)  
    (you can skip this step if you already have it installed)
 2. Extract the contents of one of the archives from the [Releases](../../releases) page, overwriting the contents.
-* by default, on windows, the Simulator is installed under `Applications/simulator`
+* by default, on mac, the Simulator is installed under `Applications/simulator`
 3. Run the Simulator and install all the necessary Emulators.
-4. Finally, run the `simfw-patcher-mac` and follow the instructions.
+4. Finally, run the `simfw-patcher-mac` that is located next to the `Contents` folder and follow the instructions.
 5. Done! You should be able to run the Simulator without `sudo` and without `TUN/TAP` adapter.
 
 ![](./assets/mac/sim-mac-1.png)  

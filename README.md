@@ -9,6 +9,8 @@ The `Simulator 2.x` has these crucial benefits:
     - Other VPNs that block LAN visibility firewall the `tun` adapter making it impossible to reach the Emulator
     - The number of supported platforms can be extended now. This should bring our Simulator to more `ARM` based devices and other architectures
 
+![](./assets/simfw.png)
+
 In the future, our `firmware patcher` will be integrated into the Simulator for more seamless interaction.
 
 ## Table of Contents

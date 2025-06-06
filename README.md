@@ -8,7 +8,7 @@ Requires `zeus` update!
 
 To patch your Simulator to v2.0.3 SE:
 1. Make sure you have the `2.0.2 SE` version that you can also get from the releases page
-2. Download `sim_203_se_patcher_win.zip` from the [Releases](../../releases) and unzip into `simulator/` folder
+2. Download `sim_203_se_patcher_win.zip` from the [Releases](../../releases) and place it into `simulator/` folder
 3. Install `zeus 1.7.1` temporary update from the fork repo
    ```bash
    # first uninstall zeus

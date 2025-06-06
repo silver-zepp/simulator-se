@@ -1,3 +1,31 @@
+# Simulator 2.0.3 SE Patch
+Features:
+- **ERROR LINE HIGHIGHT**. no more confusing errors, you will know exactly where the issue is
+- show surrounding lines, including the comments
+- show **line numbers** inside **your** code base
+
+Requires `zeus` update!
+
+To patch your Simulator to v2.0.3 SE:
+1. Make sure you have the `2.0.2 SE` version that you can also get from the releases page
+2. Download `sim_203_se_patcher_win.zip` from the [Releases](../../releases) and unzip into `simulator/` folder
+3. Install `zeus 1.7.1` temporary update from the fork repo
+   ```bash
+   # first uninstall zeus
+   npm uninstall @zeppos/zeus-cli -g
+   # make sure the folder is actually deleted by checking
+   # C:\Users\{YOUR_USERNAME}\AppData\Roaming\npm\node_modules\@zeppos\zeus-cli
+   # or try `zeus --version`
+
+   # then install the fork
+   npm i @silver-zepp/zeus-cli -g
+   ```
+4. Run the patcher and that should be it
+
+
+## Here's the Before and After difference
+![](./assets/v203se/sim_203_err_highlight.png)
+
 # Simulator 2.0.2 SE Patch
 - **CLEAN LOGS**. you only see what you expect to see `console.log("my log")`  becomes  `12:12:12.120 > my log`
 - **AUTOMATIC LOG SCROLL** to show latest content (auto disabled when you manually scroll up; reenabled when scrolled down)

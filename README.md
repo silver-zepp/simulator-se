@@ -51,7 +51,7 @@ To patch your Simulator 2.0.2:
 
 4. Run the patcher, and if everything goes OK, start the simulator again
 
-<img src="./assets/v202se/patch_intall.png" width="50%">
+<img src="./assets/v202se/patch_intall.png" width="75%">
 
 5. Observe the version change from `2.0.2` to `2.0.2 SE`
 5. Enjoy!
@@ -59,13 +59,13 @@ To patch your Simulator 2.0.2:
 ## Before
 - garbage
 
-<img src="./assets/v202se/garbage_sim.jpg" width="75%">
+<img src="./assets/v202se/garbage_sim.jpg" width="100%">
 
 
 ## After
 - clean logs
 
-<img src="./assets/v202se/clean_sim.png" width="75%">
+<img src="./assets/v202se/clean_sim.png" width="100%">
 
 
 # ACRHIVE
